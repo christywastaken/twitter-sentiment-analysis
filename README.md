@@ -19,7 +19,7 @@ To run this project, you will need the following Python packages:
 
 
 
-### Conclusions - Sentiment of Tweets Between 3am and 5am
+### Conclusions 
 
 Our analysis found a significant shift in sentiment between tweets created between 4am and 5am, with an increase in positivity and a decrease in negativity. This was evidenced by the statistically significant differences in p-values for both positive and negative sentiments during these hours.
 
