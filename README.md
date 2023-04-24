@@ -21,7 +21,7 @@ To run this project, you will need the following Python packages:
 
 ### Conclusions 
 
-Our analysis found a significant shift in sentiment between tweets created between 4am and 5am, with an increase in positivity and a decrease in negativity. This was evidenced by the statistically significant differences in p-values for both positive and negative sentiments during these hours.
+Our analysis found a significant shift in sentiment between tweets created between 4am and 6am, with an increase in positivity and a decrease in negativity. This was evidenced by the statistically significant differences in p-values for both positive and negative sentiments during these hours.
 
 
 
@@ -31,7 +31,7 @@ To build on this analysis, we recommend investigating the following areas:
 
 <b>Temporal Analysis</b>: Explore whether the increase in positive sentiment between 3am and 5am is consistent across different years, especially considering the unusual circumstances of 2020 due to COVID and lockdown restrictions.
 
-<b>Geographical Analysis</b>: Examine if the observed change in sentiment occurs in other locations outside of Newcastle-Upon-Tyne within a 15 km radius.
+<b>Geographical Analysis</b>: Examine if the observed change in sentiment occurs in other locations outside of Newcastle-Upon-Tyne.
 
 <b>Tweet Content Analysis</b>: Delve into the content of the tweets themselves to gain insights into the factors driving the significant shift in sentiment between 3am and 5am. Consider the possibility that a small number of highly active positive users may be influencing the data.
 
